@@ -1,0 +1,12 @@
+.uno p {
+    text-align: center;
+    margin-top: 5px;
+}
+.dos {
+    margin-left: 460px;
+}
+p {
+    width: 200px;
+    padding: 40px;
+    border: 10px solid yellow;
+}
